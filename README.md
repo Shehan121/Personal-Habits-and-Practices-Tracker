@@ -7,7 +7,7 @@ A small CLI logger + a pandas/matplotlib analyzer, joined by one shared CSV.
 ## Authors
 
 - **Hezz** — [Logger / Analyzer] — Information & Electrical Engineering @ HAW Hamburg
-- **Shehan** — [Logger / Analyzer] — [Partner's degree and University]
+- **Shehan** — [Logger / Analyzer] — Software Design International @ TH Aschaffenburg
 
 ## Overview
 
